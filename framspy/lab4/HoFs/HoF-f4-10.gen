@@ -1,0 +1,11 @@
+org:
+genotype:/*4*/CCC<X><IrX>#2<X>r#3I>>X
+velocity:3.2173113108084432e-06
+
+org:
+genotype:/*4*/CCC<X><rX>#2Lc<X>#2>>X
+velocity:2.2123412316441653e-06
+
+org:
+genotype:/*4*/CRC<X><rX>#2<X>>cX
+velocity:1.2060266442874367e-06

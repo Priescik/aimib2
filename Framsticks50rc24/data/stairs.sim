@@ -1,0 +1,16 @@
+sim_params:
+expdef:standard-eval
+wrldtyp:1
+wrldsiz:30
+wrldmap:~
+m 11 2
+0 - 1 - 2 - 3 - 4 - 5 
+0 - 1 - 2 - 3 - 4 - 5 
+~
+wrldwat:-5
+wrldbnd:0
+startxlist:-10,-10,-8,-8
+startylist:-1,-8,-8,-1
+startheadings:0,0
+targetxlist:9,9
+targetylist:0,1

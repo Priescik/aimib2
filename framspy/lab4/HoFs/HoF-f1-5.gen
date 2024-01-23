@@ -1,0 +1,39 @@
+org:
+genotype:X[|,3:0.726][N, 3:-6.019,3:6.233,1:1.976][T, ry:0.34, r:1,r:1][T, ry:0.34, r:1]rFFX[T][|, -3:-0.651]
+velocity:0.0007562670161579392
+
+org:
+genotype:X[T,ry:-0.444]FFFIX[|,-1:0.435]
+velocity:0.0006574580950481556
+
+org:
+genotype:fX[|][N, 2:-6.019,2:6.251][T, ry:0.34, r:1,r:1]rFFX[T][|, -2:-0.448]
+velocity:0.0005937268787076708
+
+org:
+genotype:X[T]FFX[|,-1:-0.595]
+velocity:0.0005278934080296157
+
+org:
+genotype:X[T]FFX[|,-1:-0.947]
+velocity:0.00044327722022478915
+
+org:
+genotype:fX[T]FIX[S][|, -2:-0.531]
+velocity:0.0003832746333803798
+
+org:
+genotype:X[T]FX[|,-1:0.254]
+velocity:0.0003226506089781041
+
+org:
+genotype:X[T]FX[|,-1:1.021]
+velocity:0.00024822096933257423
+
+org:
+genotype:X[T]FX[|,-1:4.389]
+velocity:0.00016400720547403693
+
+org:
+genotype:X[T]FX[|,-1:6.908]
+velocity:6.715518237299368e-05

@@ -1,0 +1,11 @@
+org:
+genotype:fX(LLLcQFFX[|, 2:0.598, p:0.302, r:1, r:1], X[N, 1:2.04,si:2,0:1][*])
+velocity:0.00026324565506798575
+
+org:
+genotype:(LX[|,1:-0.363,p:0.25,r:1,r:1], X[*])
+velocity:0.00018194806650015548
+
+org:
+genotype:(LLFFX[|, p:0.25, r:1], X[*])
+velocity:6.474151009915874e-05

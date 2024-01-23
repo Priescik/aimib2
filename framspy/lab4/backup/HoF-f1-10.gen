@@ -1,0 +1,400 @@
+org:
+genotype:LLCQQf(mX[N, 2:1.591,2:-3.408][|, 1:2.726][Gpart, ry:0, rz:0.551,rz:0][@, -1:-3.585, p:1], X)
+velocity:0.0064024635146862135
+
+org:
+genotype:LLC(rmX[|, 1:2.726][Gpart, ry:0, rz:1.813,rz:0][@, -1:-3.231, p:1], X)
+velocity:0.006207010021238836
+
+org:
+genotype:LLQQf(mX[N, 2:1.591,2:-3.408][|, 1:2.726][Gpart, ry:0, rz:1.813,rz:0][@, -1:-3.585, p:1], X)
+velocity:0.00590881158807399
+
+org:
+genotype:LLCQQf(RmX[N, 2:2.855,2:-3.408][|, 1:2.726][Gpart, ry:0, rz:0.551,rz:0][@, -1:-3.585, p:1], X)
+velocity:0.005577843126439746
+
+org:
+genotype:LLC(rmX[N, 2:-0.495,2:-2.941,2:-2.133][|, 1:2.726][Gpart, ry:0, rz:1.813,rz:0][@, -1:-3.261, p:1], X)
+velocity:0.005402704179838142
+
+org:
+genotype:LQQQf(mX[N, 2:4.744,2:-3.408][|, 1:2.726][Gpart, ry:0, rz:1.813,rz:0][@, -1:-3.585, p:1], (X))
+velocity:0.005010306193862716
+
+org:
+genotype:LQQ(mX[N, 2:-1.095,2:1][|, 1:2.726][Gpart, ry:0, rz:1.813,rz:0][@, -1:-3.585, p:1], FX)
+velocity:0.004818366256190506
+
+org:
+genotype:LQQf(mX[N, 2:-1.666,2:-0.663][|, 1:2.726][Gpart, ry:0, rz:1.813,rz:0][@, -1:-3.585, p:1], X)
+velocity:0.004633502633322652
+
+org:
+genotype:LQQ(mX[N, 2:-1.095,2:1][|, 1:2.726][Gpart, ry:0, rz:1.813,rz:0][@, -1:-3.585, p:1], X)
+velocity:0.004329139864621789
+
+org:
+genotype:LQQf(mX[N, 2:-1.666,2:-0.663][|, 1:2.726][Gpart, ry:0, rz:1.813,rz:0][@, -1:-3.868, p:1], X)
+velocity:0.004173168743806383
+
+org:
+genotype:LQQ(mX[N, 2:-0.904,2:-2.941,2:1][|, 1:2.726][Gpart, ry:0, rz:1.813,rz:0][@, -1:-4.121, p:1], X)
+velocity:0.004032313383762219
+
+org:
+genotype:LQQf(mX[N, 2:1.591,2:-0.663][|, 1:2.726][Gpart, ry:0, rz:1.813,rz:0][@, -1:-4.273, p:1], X)
+velocity:0.0039038191184520626
+
+org:
+genotype:LQQ(rmX[N, 2:4.548,2:-2.851,0:1][|, 1:2.726][Gpart, ry:0, rz:1.813,rz:0][@, -1:-3.828, p:1], (X))
+velocity:0.003759504050175397
+
+org:
+genotype:rQ(mX[|, 1:2.726][Gpart,ry:0,rz:0][@, -1:-2.836, p:0.905], X)
+velocity:0.003563715802410284
+
+org:
+genotype:(FmX[|, 1:2.726][Gpart, ry:0][@, -1:-3.942, p:1], X[T])
+velocity:0.0034090027068070777
+
+org:
+genotype:Q(FmX[|,1:2.733][Gpart,ry:0][@,-1:-3.319,p:1], X)
+velocity:0.003207303767481778
+
+org:
+genotype:(FmX[|,1:2.726][Gpart,ry:0][@,-1:-4.362,p:1], X)
+velocity:0.0030359918618382427
+
+org:
+genotype:Q(FmX[|,1:2.726][Gpart,ry:0][@,-1:-3.375,p:1], X)
+velocity:0.0028655986482741588
+
+org:
+genotype:Q(FmX[|,1:2.733][Gpart,ry:0][@,-1:-3.04,p:1], X)
+velocity:0.0027181540550169237
+
+org:
+genotype:Q(FmX[|, 1:2.532][Gpart][@, -1:-4.003, p:0.905], X[Gpart])
+velocity:0.00263294882349634
+
+org:
+genotype:Q(FmX[|,1:2.733][Gpart,ry:0][@,-1:-4.239,p:1], X)
+velocity:0.002516809390552014
+
+org:
+genotype:Q(FmX[|,1:2.393][Gpart,ry:0][@,-1:-3.937,p:1], FX)
+velocity:0.0024000098042340533
+
+org:
+genotype:Q(FmX[|,1:2.733][Gpart,ry:0][@,-1:-2.668,p:1], X)
+velocity:0.0023048444060495563
+
+org:
+genotype:(mX[|,1:2.726][Gpart,ry:0][@,-1:-3.375,p:1], X)
+velocity:0.002179524168688948
+
+org:
+genotype:(mX[|,1:2.421][Gpart,ry:0][@,-1:-4.5,p:1], X)
+velocity:0.002087471149953229
+
+org:
+genotype:(mX[|,1:2.421][Gpart,ry:0][@,-1:-4.745,p:1], X)
+velocity:0.002009405906925975
+
+org:
+genotype:(QQmX[|, 1:2.726][Gpart, ry:-0.569, ry:0][@, -1:-2.47, p:0.905], X[Gpart])
+velocity:0.0019488236560144619
+
+org:
+genotype:(FmX[|,1:2.726][Gpart,ry:0][@,-1:-3.375,p:1], X)
+velocity:0.0018763767247854143
+
+org:
+genotype:Q(FmX[|,1:2.733][Gpart,ry:0][@,-1:-2.374,p:1], X)
+velocity:0.0018143542026519005
+
+org:
+genotype:(FmX[|, 1:3.001][Gpart, ry:0][@, -1:-3.534, p:1], X[T])
+velocity:0.0017253310688214892
+
+org:
+genotype:Q(FmX[|,1:2.511][Gpart,ry:0][@,-1:-3.319,p:1], X)
+velocity:0.0016686545353995874
+
+org:
+genotype:(mX[|,1:2.421][Gpart][@,-1:-3.759,p:0.999], X)
+velocity:0.0016009494071495467
+
+org:
+genotype:rQ(mX[|, 1:2.726][Gpart, ry:-0.569,ry:0,rz:0][@, -1:-7.097, p:0.905], QX)
+velocity:0.001547821475885689
+
+org:
+genotype:(FmX[|,1:2.726][Gpart,ry:0][@,-1:-3.022,p:1], fX)
+velocity:0.001487983872266
+
+org:
+genotype:Q(FmX[|, 1:2.726][Gpart, ry:0][@, -1:-4.62, p:1], X[T])
+velocity:0.0014270691439505826
+
+org:
+genotype:Q(mX[|, 1:2.6][Gpart,rz:0][@, -1:-3.207, p:0.905], X[Gpart])
+velocity:0.0013626202738738918
+
+org:
+genotype:(FmX[|, 1:2.726][Gpart, ry:0][@, -1:-6.456, p:1], X[T])
+velocity:0.001303194039555102
+
+org:
+genotype:Q(FmX[*][|, 1:2.726][Gpart, ry:0][@, -1:-5.043, p:1], X)
+velocity:0.0012325264960130076
+
+org:
+genotype:Q(FmX[|,1:2.733][Gpart,ry:0][@,-1:-6.981,p:1], X)
+velocity:0.001166652523817177
+
+org:
+genotype:Q(mX[|, 1:2.726][Gpart, ry:-1.616,ry:0][@, -1:-6.326, p:0.905], CIX[Gpart])
+velocity:0.0011289320188842546
+
+org:
+genotype:RQ(mX[|, 1:2.726][Gpart, ry:-0.569,ry:0][@, -1:-7.085, p:0.905], CX[Gpart])
+velocity:0.0010864900785172028
+
+org:
+genotype:(FmX[N, 2:1][|, 1:2.773][Gpart, ry:0][@, -1:-4.931, p:1], X)
+velocity:0.0010163345627181132
+
+org:
+genotype:Q(FmX[*][|, 1:2.726][Gpart, ry:0][@, -1:-3.345, p:1], X)
+velocity:0.0009792467685142499
+
+org:
+genotype:Q(mX[|, 1:2.726][Gpart, ry:-0.569,ry:0][@, -1:-6.742, p:0.905], X[Gpart])
+velocity:0.0009460862385843274
+
+org:
+genotype:Q(FmX[|,1:2.525][Gpart,ry:0][@,-1:-3.319,p:1], X)
+velocity:0.0008975312987647654
+
+org:
+genotype:Q(FmX[|, 1:4.147][Gpart][@, -1:-3.303, p:1], ccX[G])
+velocity:0.0008650865413600878
+
+org:
+genotype:rQ(FmX[|,1:2.726][Gpart,ry:0][@,-1:-3.375,p:1,p:1], X)
+velocity:0.0008298498299717364
+
+org:
+genotype:Q(FmX[*][|, 1:2.726][Gpart, ry:0][@, -1:-2.591, p:1], X)
+velocity:0.0008001675595183082
+
+org:
+genotype:Q(FmX[|,1:3.607][Gpart,ry:0][@,-1:-3.375,p:1,p:1], X)
+velocity:0.0007544082282718343
+
+org:
+genotype:m(FmX[|,1:2.726][Gpart,ry:0][@,-1:-6.886,p:1], X)
+velocity:0.0007145417188162052
+
+org:
+genotype:(FmX[|,1:3.456][Gpart,ry:0][@,-1:-4.362,p:1], X)
+velocity:0.0006871608278065724
+
+org:
+genotype:QQ(mX[|, 1:2.726][Gpart,ry:0,rz:0][@, -1:-3.195, p:0.905,p:1], X)
+velocity:0.0006613903248210466
+
+org:
+genotype:Q(FmX[*][|, 1:2.726][Gpart, ry:0][@, -1:-3.217, p:1], X)
+velocity:0.0006410462068672954
+
+org:
+genotype:(mX[|, 1:4.464][Gpart, ry:0][@, -1:-3.375, p:1], X, )
+velocity:0.0006051678238985954
+
+org:
+genotype:LQQ(mX[N, 2:-1.095,2:1][|, 1:2.726][Gpart, ry:0, rz:1.813,rz:0][@, -1:-3.585, p:1], (FX))
+velocity:0.0005869376564178734
+
+org:
+genotype:Q(FmX[*][|, 1:3.776][Gpart, ry:0][@, -1:-5.043, p:1], X)
+velocity:0.0005679748352194775
+
+org:
+genotype:Q(FmX[*][|, 1:2.726][Gpart, ry:0][@, -1:-6.161, p:1], X)
+velocity:0.0005486795895456449
+
+org:
+genotype:Q(mX[|, 1:3.853][Gpart, ry:0][@, -1:-4.248, p:1], X)
+velocity:0.0005173501796060496
+
+org:
+genotype:(mX[|,1:1][Gpart,ry:0][@,-1:-3.375,p:1], X)
+velocity:0.0004974356831650316
+
+org:
+genotype:(FmX[|,1:2.726][Gpart,ry:0,rz:0][@,-1:-3.375,p:1], X[|,-2:1])
+velocity:0.0004821976008428594
+
+org:
+genotype:(FmX[|, 1:2.726][Gpart, ry:0][@, -1:-6.263, p:1], X[T])
+velocity:0.0004604384082684291
+
+org:
+genotype:(mX[|,1:6.687][Gpart,ry:0][@,-1:-3.375,p:1], X)
+velocity:0.0004425241551259363
+
+org:
+genotype:(FmX[|,1:2.726][Gpart,ry:0][@,-1:-1.767,p:1], X)
+velocity:0.0004225839483726963
+
+org:
+genotype:(FmX[|,1:2.726][Gpart,ry:0][@,-1:-4.362,p:1], X[@,-2:1])
+velocity:0.00040860845554908546
+
+org:
+genotype:(mX[|,1:4.898][Gpart,ry:0][@,-1:-3.375,p:1], X)
+velocity:0.00039587623836558105
+
+org:
+genotype:(mX[|,1:5.827][Gpart,ry:0][@,-1:-3.375,p:1], X)
+velocity:0.00037600843228503144
+
+org:
+genotype:(FmX[|,1:1.958][Gpart,ry:0][@,-1:-3.375,p:1], X)
+velocity:0.0003617625855278695
+
+org:
+genotype:(LmX[|,1:6.687][Gpart,ry:0][@,-1:-3.375,p:1], X)
+velocity:0.0003434661279519432
+
+org:
+genotype:Q(FmX[*][|, 1:2.237][Gpart, ry:0][@, -1:-3.375, p:1], X)
+velocity:0.0003288423403298901
+
+org:
+genotype:(mX[|,1:5.827][Gpart,ry:0][@,-1:-4.225,p:1], X)
+velocity:0.00031561350556959776
+
+org:
+genotype:Q(FmX[|, 1:4.138][Gpart, ry:0][@, -1:-4.215, p:1], X[Gpart])
+velocity:0.00029686628193721594
+
+org:
+genotype:(mX[|, 1:1,p:0.25][Gpart, ry:0][@, -1:-3.375, p:1], X)
+velocity:0.00028481576494489524
+
+org:
+genotype:Q(FmX[|, 1:2.733][Gpart, ry:0][@, -1:-2.073, p:1], X[G])
+velocity:0.00027374357870402243
+
+org:
+genotype:(mX[|,1:1][Gpart,ry:0][@,-1:-4.65,p:1], X)
+velocity:0.0002652410991006731
+
+org:
+genotype:Q(FmX[|,1:3.607][Gpart,ry:0][@,-1:-5.633,p:1,p:1], X)
+velocity:0.0002538956466448339
+
+org:
+genotype:Q(FmX[|,1:2.726][Gpart,ry:0][@, -1:-3.375], X)
+velocity:0.0002432838942613677
+
+org:
+genotype:Q(FmmX[S][|, 1:2.733][Gpart, ry:0][@, -1:-3.319, p:1], X)
+velocity:0.0002322281345295388
+
+org:
+genotype:(mX[|,1:5.827][Gpart,ry:0][@,-1:-3.983,p:1], X)
+velocity:0.00022412369531489852
+
+org:
+genotype:(mX[|, 1:1,p:0.25][Gpart, ry:0,rz:0][@, -1:-4.878, p:1,p:1], X)
+velocity:0.00021362473617168268
+
+org:
+genotype:(mX[|,1:-3.234][Gpart,ry:0][@,-1:-3.375,p:1], X)
+velocity:0.00020324794772915146
+
+org:
+genotype:(mX[|,1:1][Gpart,ry:0][@,-1:-3.519,p:1], X)
+velocity:0.00019481941455735849
+
+org:
+genotype:(mX[|, 1:2.746,p:0.25][Gpart, ry:0][@, -1:-5.511, p:1], X,)
+velocity:0.0001887780021622731
+
+org:
+genotype:Q(FmX[|,1:4.184][Gpart,ry:0][@,-1:-3.319,p:0.952], X[Gpart])
+velocity:0.00018158460763270662
+
+org:
+genotype:f(mX[|, 1:7.026][Gpart, ry:0][@, -1:-3.375, p:1], X, )
+velocity:0.00017173006215311874
+
+org:
+genotype:Q(FmX[|,1:5.427][Gpart,ry:0][@,-1:-3.04,p:1], X)
+velocity:0.0001658939239928311
+
+org:
+genotype:(mX[|,1:1][Gpart,ry:0][@,-1:-3.277,p:1], X)
+velocity:0.00016023160043089193
+
+org:
+genotype:(mX[|, 1:1,p:0.25][Gpart, ry:0][@, -1:-5.511, p:1], X,)
+velocity:0.00015230032359246512
+
+org:
+genotype:Q(FmX[|, 1:1.887][Gpart, ry:0,ry:0][@, -1:-4.003, p:0.905], MX[Gpart])
+velocity:0.00014335272555554316
+
+org:
+genotype:Q(FmX[S][|, 1:1.637][Gpart, ry:0][@, -1:-3.319, p:1], X)
+velocity:0.0001361340995944592
+
+org:
+genotype:(FmX[|, 1:2.726][Gpart, ry:0.289][@, -1:-3.829, p:1], X[T])
+velocity:0.00012900660614849216
+
+org:
+genotype:(mX[|,1:1][Gpart,ry:0][@,-1:-4.745,p:1], X)
+velocity:0.00012470344257959706
+
+org:
+genotype:(mX[|, 1:1,p:0.25][Gpart, ry:0][@, -1:-2.888, p:1], X)
+velocity:0.00011851933843746967
+
+org:
+genotype:(mX[Gpart][@,-1:-3.551], X)
+velocity:0.00011379496950883187
+
+org:
+genotype:(mX[Gpart][@,-1:-3.508], X)
+velocity:0.00010845787701209728
+
+org:
+genotype:(mX[Gpart][@,-1:-3.965], fX)
+velocity:0.00010490501137712509
+
+org:
+genotype:(mX[Gpart][@,-1:-3.965], X)
+velocity:0.00010055484433259425
+
+org:
+genotype:(mX[Gpart][@,-1:-1.655], fX)
+velocity:9.581610608757211e-05
+
+org:
+genotype:(mX[Gpart][@,-1:-4.577], X)
+velocity:9.08162038907806e-05
+
+org:
+genotype:(mX[Gpart][@,-1:-1.499], X)
+velocity:8.768588371999976e-05
+
+org:
+genotype:(mX[Gpart][@,-1:-2.253], LX)
+velocity:8.353946662070063e-05
+

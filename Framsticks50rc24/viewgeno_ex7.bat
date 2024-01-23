@@ -1,0 +1,1 @@
+theater -g - <viewgeno_example7.txt

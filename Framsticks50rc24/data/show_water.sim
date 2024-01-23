@@ -1,0 +1,5 @@
+# configure "standard AL water"
+sim_params:
+wrldwat:10
+creath:-0.5
+

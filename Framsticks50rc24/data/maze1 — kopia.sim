@@ -1,0 +1,23 @@
+# sample parameters for the maze experiments
+
+
+sim_params:
+expdef:mazes
+wrldtyp:1
+wrldsiz:30
+wrldmap:~
+m 10 2
+0 1 2 3 4 5 6 7 8 9 
+0 1 2 3 4 5 6 7 8 9 
+~
+wrldwat:-5
+wrldbnd:0
+startxlist:1,1,8,8
+startylist:1,8,8,1
+startheadings:0,270,180,90
+targetxlist:8,8,1,1
+targetylist:8,1,1,8
+
+GenePool:
+name:Genotypes
+fitness:return 0.0 + 1.0 * (this.data.hasKey("fit") ? this.data->fit : 0.0);

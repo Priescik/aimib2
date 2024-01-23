@@ -1,0 +1,2 @@
+(0.982718573207185,)
+['LLLLX[@, 3:0.729, p:0.911](RcQFFXcQFX(XMXLLLrmIIX[@, 2:0.431, p:1]X[Gpart][T, rz:0]LX), (rmmiX))']

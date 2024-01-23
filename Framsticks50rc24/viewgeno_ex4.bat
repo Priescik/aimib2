@@ -1,0 +1,1 @@
+theater -g -vmodelpan=3 - <viewgeno_example4.txt

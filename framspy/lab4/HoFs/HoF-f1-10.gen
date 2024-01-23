@@ -1,0 +1,79 @@
+org:
+genotype:F(q(, RfX,  ,), LLrQIIX[G][T][|, r:0.965, -1:8.162])
+velocity:0.001554089045498649
+
+org:
+genotype:F(q(, RfX, ,), LLQIIX[T, ry:2.659][|, r:0.954, -1:8.296])
+velocity:0.001487672605732581
+
+org:
+genotype:F(q(, RfX, ,), LLQIIX[T, ry:2.659][|, r:0.954, -1:7.976])
+velocity:0.0014008948545235996
+
+org:
+genotype:F(q(, RX, ,), LLQIIX[T, ry:2.45,ry:0][|, r:0.954, -1:8.323])
+velocity:0.00131905229314437
+
+org:
+genotype:F(q(, RX, ,), LLQIIX[T, ry:2.45,ry:0][|, r:0.954, -1:8.598])
+velocity:0.0012173758209758445
+
+org:
+genotype:F(q(, RX, ,), LLQIIX[T, ry:2.45,ry:0][|, r:0.954, -1:8.817])
+velocity:0.0011378153779165263
+
+org:
+genotype:F(q(, RX, ,), LLQIIX[T, ry:2.45,ry:0][|, r:0.954, -1:7.634])
+velocity:0.0010226807043711465
+
+org:
+genotype:(q(, X[T], , ), LLQIIX[T, ry:2.45, ry:-0.572][|, r:0.954, -1:8.384])
+velocity:0.0009381916749672543
+
+org:
+genotype:(q(, X, ,), LLQIIX[T, ry:2.45,ry:0][|, r:0.954, -1:8.426])
+velocity:0.0008355808506071328
+
+org:
+genotype:(q(, X, , ), LQIIX[T, ry:2.45][|, r:0.954, -1:8.708])
+velocity:0.0007677600022247388
+
+org:
+genotype:((, X, , ), LQIIX[T, ry:2.45][|, r:0.954, -1:8.56])
+velocity:0.0006864578000782408
+
+org:
+genotype:(q(, X, , ), LQIIX[T, ry:2.45][|, r:0.954, -1:8.008])
+velocity:0.0006245476277424058
+
+org:
+genotype:((, X, , ), LQIIX[T, ry:2.45][|, r:0.954, -1:7.445])
+velocity:0.0005492823717801104
+
+org:
+genotype:((, X, , ), LQIX[T, ry:0][|, r:0.954, -1:6.751])
+velocity:0.00048142248989956185
+
+org:
+genotype:((, X, , ), LQIX[T, ry:0][|, r:0.954, -1:5.867])
+velocity:0.0004181904259423493
+
+org:
+genotype:((, X, , ), LQIX[T, ry:0][|, r:0.954, -1:4.421])
+velocity:0.00035083390499089515
+
+org:
+genotype:((, X, , ), LQIX[T, ry:0,r:1][|, r:0.954, -1:3.107])
+velocity:0.0002685098006351201
+
+org:
+genotype:(,X, ,LQIX[T][|,r:1,-1:3.93])
+velocity:0.00020705760754230696
+
+org:
+genotype:(,X, ,LcQIX[T][|,r:1,-1:9.765])
+velocity:0.00014110846446340172
+
+org:
+genotype:(,X, ,LLQIX[|])
+velocity:7.963326121457042e-05
